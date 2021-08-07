@@ -53,7 +53,8 @@ const handleSubmit = e => {
     // Todo: onClick
     >
     Add</Button>
-    </InputGroupAddon></InputGroup>
+    </InputGroupAddon>
+    </InputGroup>
        
       </FormGroup>
     </Form>
